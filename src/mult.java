@@ -4,6 +4,6 @@ public class mult {
 		int x = 2;
 		int y = 4;
 		int z = x * y;
-		System.out.printf("Hello, World!!!%d\n", z);
+		System.out.printf("Hello, World!!! My number is: %d\n", z);
 	}
 }
